@@ -2,8 +2,7 @@
 | Inglês | Português |
 |--------|----------|
 | API | API |
-| Application Programming Interface - Interface de Programação de Aplicações -
-Forma completa da sigla |
+| Application Programming Interface - Interface de Programação de Aplicações - Forma completa da sigla |
 | higher-level language | linguagem de alto nível |
 | low-level code | código de baixo nível |
 | abstract (verb) | abstrair a complexidade |
