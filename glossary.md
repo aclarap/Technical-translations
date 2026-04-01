@@ -3,20 +3,20 @@
 |--------|----------|
 | API | API |
 | Application Programming Interface - Interface de Programação de Aplicações - Forma completa da sigla |
-| higher-level language | linguagem de alto nível |
-| low-level code | código de baixo nível |
-| abstract (verb) | abstrair a complexidade |
-| syntax | sintaxe | Tradução direta |
-| developer | desenvolvedor | Termo padrão |
-| functionality | funcionalidade | Tradução direta |
-| power supply | fonte de alimentação |
-| appliance | aparelho |
-| plug socket | tomada |
-| wire (verb) | conectar |
+| Higher-level language | Linguagem de alto nível |
+| Low-level code | Código de baixo nível |
+| Abstract (verb) | Diminuir a complexidade |
+| Syntax | Sintaxe |
+| Developer | Desenvolvedor |
+| Functionality | Funcionalidade |
+| Power supply | Fonte de alimentação |
+| Appliance | Aparelho |
+| Plug socket | Tomada |
+| Wire (verb) | Conectar |
 | GPU | GPU (sigla técnica) |
-| graphics functions | funções gráficas |
-| 3D graphics | gráficos 3D | 
-| programming language | linguagem de programação |
+| Graphics functions | Funções gráficas |
+| 3D graphics | Gráficos 3D | 
+| Programming language | Linguagem de programação |
 
 # Notas de Tradução
 - O termo “API” foi mantido em inglês por ser amplamente utilizado na área de
