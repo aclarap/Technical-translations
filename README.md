@@ -1,2 +1,1 @@
-# Technical-translations
-Portfólio de tradução técnica (EN → PT-BR) com foco em documentação de tecnologia, incluindo projetos baseados na MDN Web Docs, glossários e uso de ferramentas CAT como OmegaT.
+Technical translation portfolio (EN → PT-BR) focused on technology and web development documentation.
