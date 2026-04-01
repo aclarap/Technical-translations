@@ -1,5 +1,6 @@
 # Introduction to Web APIs – Translation Project
-This project contains the translation of a technical text about APIs (Application Programming Interfaces) from English to Portuguese.
+  This project presents a technical translation of a text about Web APIs (Application Programming Interfaces) from English to Brazilian Portuguese.
+  The focus is on delivering accurate, clear, and natural translations while maintaining technical consistency.
 
 ## Contents
 - traducao.md -> translated text  
